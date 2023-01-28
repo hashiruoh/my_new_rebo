@@ -1,2 +1,2 @@
-# my_new_rebo
+# my_new_repo
 connection vs code to github
